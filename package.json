@@ -1,0 +1,26 @@
+{
+  "name": "mtkwock",
+  "version": "1.0.0",
+  "description": "hello npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtkwock/hello-npm.git"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "mtkwock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtkwock/hello-npm/issues"
+  },
+  "homepage": "https://github.com/mtkwock/hello-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
